@@ -1,0 +1,927 @@
+@media (max-width: 320px) { 
+/*header start*/
+nav a{
+  width: 170px;    
+}
+.custom_nav a{
+ margin-right: 0px;
+}
+.header_icon{
+    text-align: center;
+}
+.custom_nav ul li{
+     text-align: center;
+     padding-bottom: 10px;
+}
+.custom_nav ul li a{  
+  display: inline;    
+}
+/*header end*/
+
+/*banner start*/
+#banner{
+  min-height: 100px;
+}
+.banner_content {
+    padding-top: 75px;
+}
+.banner_content h1 {
+    font-size: 40px;
+    margin-top: 15px;
+}
+element.style {
+}
+.banner_content p {
+    font-size: 35px;
+    padding-bottom: 85px;
+}
+/*banner end*/
+
+/*kid education one strt*/
+#kid_education_one {
+    margin-bottom: 50px;
+}
+.scroll {
+      margin-top: -35px;
+}
+.school hr {
+    width: 159px;
+    margin: 5px 0;
+}
+.common_title {
+    padding: 15px 0 35px 0 !important;
+}
+
+.common_title h2 {
+    font-size: 18px;
+  }
+.common_title hr{
+  width: 255px;
+}
+
+.school h2 {
+    font-size: 18px;
+}
+
+.discovary-btn{
+  margin: 0 auto;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+/*kid education one end*/
+
+/*kid education two start*/
+#kid_education_two {
+    padding: 35px 0;
+}
+.our-desiration{
+     padding-top: 15px !important;
+    margin-bottom: 10px;
+}
+.single_desiration p {
+    font-size: 17px;
+}
+.single_desiration{
+  margin-bottom: 20px;
+}
+.featured-courses h2{
+margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.custom-card{
+      margin-bottom: 20px;
+}
+.plus-btn{
+  margin-top: 0px !important;
+    margin-bottom: 30px;
+}
+/*kid education two end*/
+
+/*offering course start*/
+#offering_courses {
+    padding: 20px 0;
+}
+.featured-courses {
+  margin-top: 10px !important;
+  margin-bottom: 15px;
+}
+/*offering course end*/
+
+/*memorable moments start*/
+#memorable-moments {
+  padding: 35px 0 55px;
+}
+.memorable h2{
+  margin-bottom: 0px;
+    padding-bottom: 5px;
+}
+.memorable hr{
+  width: 165px;
+}
+.sigle-image {
+    text-align: center;
+}
+.memorable-btn {
+    margin-top: 0px;
+}
+/*memorable moments end*/
+
+/*always stand by support start*/
+#always-stand-by-support {
+    margin: 50px 0 25px;
+}
+.common-p-details {
+    margin-bottom: 0px;
+}
+.who-stand{
+     padding: 0 0 25px !important;
+}
+.who-stand h2{
+margin-bottom: 0px;
+    padding-bottom: 5px;
+}
+.single-person{
+  text-align: center;
+}
+.common-p-details {
+    margin-bottom: 10px;
+    text-align: left;
+}
+.center{
+  text-align: center;
+}
+.top-text {
+    padding-bottom: 25px;
+}
+.top-text-2ndp{
+  text-align: center;
+}
+.name{
+      margin-top: 15px;
+}
+/*always stand by support end*/
+
+/*event-recentnews start*/
+#event-recentnews {
+    margin: 45px 0 0px;
+}
+.event-common-circel {
+  margin: 0 auto;
+}
+.name-common-style {
+        font-size: 18px;
+}
+.date-title {
+    font-size: 15px;
+}
+.single-event-text {
+    text-align: center;
+}
+.event-news-title{
+  margin-bottom: 15px;
+}
+.event-news-title h2{
+margin-bottom: 0px;
+    padding-bottom: 5px;
+}
+.event-news-title hr{
+      width: 131px;
+}
+.recent hr{
+  width: 105px;
+}
+.single-new{
+      text-align: center;
+      margin-bottom: 25px;
+}
+.single-new img{
+      margin-bottom: 12px;
+}
+/*event-recentnews end*/
+
+/*contat us start*/
+#contact-us {
+    background-image: none;
+    background-color: white;
+    padding: 30px 0;
+}
+.contact-wrapper {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: center;
+}
+.check-point{
+  text-align: left;
+  margin-bottom: 10px;
+}
+.common-hr-style hr {
+    width: 96px;
+    display: -webkit-inline-box;
+    margin-top: 0px;
+}
+.instagram-image{
+  margin-bottom: 10px;
+}
+.contact-us-social-icon{
+  padding-bottom: 0px !important;
+  color: #3333;
+}
+.contact-form {
+    margin-top: -10px;
+    padding-right: 20px;
+}
+/*contat us end*/
+
+/*footer start*/
+.footer-wrapper {
+    margin: 0px 0 0px;
+    text-align: center;
+}
+.text-style {
+    font-size: 15px;
+}
+.footer-text {
+    margin-top: 25px;
+}
+.right-footer-text {
+    margin-top: -8px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.social-icon ul{
+  margin-bottom: 5px;
+}
+/*footer end*/
+}
+
+/*Extra small devices (portrait phones, less than 576px) Extra small screen/Mobile Screen/COL*/
+@media (max-width: 575.98px) { 
+/*header start*/
+.header_icon{
+    text-align: center;
+}
+.custom_nav ul li{
+     text-align: center;
+     padding-bottom: 10px;
+}
+.custom_nav ul li a{  
+  display: inline;    
+}
+/*header end*/
+/*banner start*/
+#banner{
+  min-height: 100px;
+}
+.banner_content {
+    padding-top: 85px;
+    padding-bottom: 35px;
+}
+.banner_content h1 {
+    font-size: 40px;
+    margin-top: 15px;
+}
+
+element.style {
+}
+.banner_content p {
+    font-size: 35px;
+    padding-bottom: 85px;
+}
+/*banner end*/
+
+/*kid education one strt*/
+#kid_education_one {
+    margin-bottom: 50px;
+}
+.scroll {
+      margin-top: -35px;
+}
+.school{
+    margin-left: 20px;
+    padding-top: 0px;
+}
+.school hr {
+    width: 159px;
+    margin: 5px 0;
+}
+.common_title {
+   padding: 30px 0;
+}
+
+.common_title h2 {
+    font-size: 18px;
+  }
+.common_title hr{
+  width: 255px;
+}
+
+.school h2 {
+    font-size: 18px;
+}
+
+.card_footer_text{
+  text-align: center;
+}
+.discovary-btn{
+  margin: 0 auto;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+/*kid education one end*/
+
+/*kid education two start*/
+#kid_education_two {
+    padding: 35px 0;
+}
+.single_desiration p {
+    font-size: 17px;
+}
+.single_desiration{
+  margin-bottom: 20px;
+}
+.featured-courses h2{
+margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.custom-card{
+      margin-bottom: 20px;
+}
+.plus-btn{
+  margin-top: 0px !important;
+    margin-bottom: 30px;
+}
+/*kid education two end*/
+
+/*offering course start*/
+#offering_courses {
+    padding: 20px 0;
+}
+.featured-courses {
+  margin-top: 10px !important;
+  margin-bottom: 3px;
+}
+/*offering course end*/
+
+/*memorable moments start*/
+#memorable-moments {
+  padding: 35px 0 55px;
+}
+.memorable h2{
+  margin-bottom: 0px;
+    padding-bottom: 5px;
+}
+.memorable hr{
+  width: 165px;
+}
+.sigle-image {
+    text-align: center;
+}
+.memorable-btn {
+    margin-top: 0px;
+}
+/*memorable moments end*/
+
+/*always stand by support start*/
+#always-stand-by-support {
+    margin: 50px 0 25px;
+}
+.who-stand{
+      padding: 0 0 35px;
+}
+.who-stand h2{
+margin-bottom: 0px;
+    padding-bottom: 5px;
+}
+.single-person{
+  text-align: center;
+}
+.common-p-details {
+   margin-bottom: 5px !important;
+      text-align: justify;
+    padding-right: 11px;
+}
+.common-sm-style{
+      margin-left: 13px;
+}
+.center{
+  text-align: center;
+}
+.top-text {
+    padding-bottom: 25px;
+}
+.top-text-2ndp{
+  text-align: center;
+}
+.name{
+      margin-top: 15px;
+}
+/*always stand by support end*/
+
+/*event-recentnews start*/
+#event-recentnews {
+    margin: 45px 0 0px;
+}
+.event-common-circel {
+  margin: 0 auto;
+}
+.name-common-style {
+        font-size: 18px;
+}
+.date-title {
+    font-size: 15px;
+}
+.single-event-text {
+    text-align: center;
+}
+.event-news-title{
+  margin-bottom: 15px;
+}
+.event-news-title h2{
+margin-bottom: 0px;
+    padding-bottom: 5px;
+}
+.event-news-title hr{
+      width: 131px;
+}
+.recent hr{
+  width: 105px;
+}
+.single-new{
+      text-align: center;
+      margin-bottom: 25px;
+}
+.single-new img{
+      margin-bottom: 12px;
+}
+/*event-recentnews end*/
+
+/*contat us start*/
+#contact-us {
+    background-image: none;
+    background-color: white;
+    padding: 30px 0;
+}
+.contact-wrapper {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: center;
+}
+.check-point{
+  text-align: left;
+  margin-bottom: 10px;
+}
+.common-hr-style hr {
+    width: 98px;
+    display: -webkit-inline-box;
+    margin-top: 0px;
+}
+.instagram-image{
+  margin-bottom: 10px;
+}
+.newsletter{
+  margin-top: 15px;
+}
+.contact-us-social-icon{
+  padding-bottom: 25px;
+}
+.contact-form {
+    margin-top: -10px;
+    padding: 0 14px;
+}
+.contact-us-social-icon{
+  color: #3333;
+}
+/*contat us end*/
+
+/*footer start*/
+.footer-wrapper {
+    margin: 0px 0 0px;
+    text-align: center;
+}
+.text-style {
+    font-size: 15px;
+}
+.footer-text {
+    margin-top: 25px;
+    text-align: center;
+}
+.right-footer-text {
+    margin-top: -8px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.social-icon ul{
+  margin-bottom: 5px;
+}
+/*footer end*/
+}
+
+/*Small devices (landscape phones, 576px and up) Small screen/SM*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.header_icon{
+    text-align: center;
+}
+.custom_nav ul li{
+     text-align: center;
+     padding-bottom: 10px;
+}
+.custom_nav ul li a{  
+  display: inline;    
+}
+/*header end*/
+
+/*banner start*/
+#banner {
+    min-height: 590px;
+}
+.banner_content {
+    padding-top: 185px;
+}
+.banner_content h1 {
+    font-size: 50px;
+}
+.banner_content p {
+    font-size: 39px;
+}
+/*banner end*/
+
+/*kid education one start*/
+.discovary-btn{
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 35px;
+}
+.school{
+      margin-top: 15px;
+}
+/*kid education one end*/
+
+/*kid education two start*/
+.our-desiration{
+  padding-top: 5px;
+  margin-bottom: 20px;
+}
+.single_desiration{
+  margin-bottom: 15px;
+}
+.single_desiration p {
+    font-size: 17px;
+}
+.common-sm-style{
+     text-align: left !important;
+}
+
+/*kid education two end*/
+
+/*offering courses start*/
+.custom-card{
+  margin-bottom: 20px;
+}
+.card_footer_text ul{
+  text-align: center;
+}
+.offering-course-button button {
+    margin-top: 25px;
+}
+.featured-courses {
+    padding-top: 0px;
+}
+/*offering courses end*/
+
+/*memorable start*/
+.memorable{
+  padding-top: 5px;
+}
+/*memorable end*/
+
+/*always stand by section start*/
+.common-sm-style {
+    text-align: left;
+}
+
+.social-icon{
+      margin-top: 13px;
+}
+.social-icon ul{
+  margin-bottom: 5px;
+}
+.who-stand{
+  margin-bottom: 15px;
+}
+/*always stand by section end*/
+
+/*event and recent news start*/
+.event-news-title{
+ text-align: center;
+ padding-top: 0px;
+ margin-bottom: 20px; 
+}
+.event-news-title hr{
+  width: 225px;
+ margin-left: 0px;
+}
+.single-new{
+  margin-bottom: 15px;
+}
+.recent{
+    padding-top: 20px;
+}
+.recent hr{
+  width: 182px;
+}
+/*event and recent news end*/
+
+/*contact us section start*/
+#contact-us {
+    background-image: none;
+    background-color: white;
+    padding: 30px 0;
+}
+.contact-wrapper {
+    padding-top: 0px;
+    padding-bottom: 25px;
+}
+.instagram h4{
+      text-align: center;
+}
+.instagram hr{
+  display: -webkit-inline-box;
+    margin-top: 0px;
+    width: 95px;
+    margin-left: 206px;
+}
+.contact-us-social-icon{
+  color: #3333;
+}
+/*contact us section end*/
+
+/*footer start*/
+.right-footer-text{
+  margin-top: 0px;
+}
+.right-footer-text p {
+    text-align: center;
+    padding-bottom: 10px;
+}
+.footer-text ul{
+  margin-bottom: 0px;
+}
+/*footer end*/
+}
+
+/*Medium devices (tablets, 768px and up) Tab screen/MD*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.header_icon{
+    text-align: center;
+}
+.custom_nav ul li{
+     text-align: center;
+     padding-bottom: 10px;
+}
+.custom_nav ul li a{  
+  display: inline;    
+}
+/*header end*/
+
+/*kid education two start*/
+.our-desiration{
+  padding-top: 5px;
+  margin-bottom: 20px;
+}
+/*kid education two end*/
+
+/*offering courese start*/
+.custom-card{
+  margin-bottom: 20px;
+}
+.card_footer_text{
+  text-align: center;
+}
+.offering-course-button button {
+    margin-top: 25px;
+}
+.featured-courses {
+    margin-top: 0px !important;
+    margin-bottom: 10px;
+}
+.featured-courses h2{
+margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+/*offering courese end*/
+
+/*memorable start*/
+.memorable{
+  padding-top: 0px;
+  padding-bottom: 30px;
+}
+#memorable-moments {
+    min-height: 600px;
+}
+.memorable-btn {
+   margin-top: 0px;
+}
+/*memorable end*/
+
+/*alwayes stand by start*/
+.social-icon ul {
+    margin-bottom: 5px !important;
+}
+.name-common-style {
+    font-size: 23px;
+}
+.common_title h2 {
+    font-size: 25px;
+}
+.common-p-details {
+    line-height: 20px;
+}
+/*alwayes stand by end*/
+
+/*event recent news start*/
+#event-recentnews {
+    margin: 75px 0 0;
+}
+.event-news-title hr{
+      width: 187px;
+}
+.recent hr{
+  width: 152px;
+}
+/*event recent news end*/
+
+/*contact us start*/
+#contact-us {
+    background-image: none;
+    background-color: white;
+    padding: 30px 0;
+}
+.contact-wrapper {
+    padding-top: 40px;
+    padding-bottom: 0px;
+}
+.common-md-style{
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+.single-contact-device i {
+    margin-top: 3px;
+    padding-right: 15px;
+}
+.contact-us-social-icon{
+  color: #3333;
+}
+.contact{
+  margin-top: 10px;
+}
+.newsletter{
+  margin-top: 10px;
+}
+.instagram hr {
+    width: 99px;
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+.contact hr {
+    width: 101px;
+    margin-top: 0px;
+}
+.signup hr {
+    width: 166px;
+    margin-top: 0px;
+}
+/*contact us end*/
+
+/*footer start*/
+.footer-text {
+    text-align: center;
+}
+.right-footer-text {
+    margin-top: -12px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+/*footer start*/
+ }
+
+/*Large devices (desktops, 992px and up) Large/Laptop Screen/LG*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*header start*/
+nav a{
+    width: 145px;
+}
+.custom_nav ul li a{  
+  display: inline;
+  padding: 1px 18px !important;    
+}
+/*header end*/
+
+/*kid education two start*/
+.our-desiration{
+  padding-top: 5px;
+  margin-bottom: 20px;
+}
+/*kid education two end*/
+
+/*offearign courses start*/
+.featured-courses{
+      margin-top: 0px;
+      padding-bottom: 15px !important;
+}
+.custom-card{
+      margin-bottom: 20px;
+}
+.card_footer_text{
+  text-align: center;
+}
+.offering-course-button button {
+    margin-top: 25px;
+}
+/*offearign courses end*/
+/*memorable momements start*/
+#memorable-moments {
+    padding: 40px 0 70px;
+}
+/*memorable momements end*/
+
+/*alwayes stand by start*/
+.social-icon ul {
+    margin-bottom: 5px !important;
+}
+.who-stand{
+       padding: 0 0 30px;
+}
+.center{
+  margin-bottom: 5px;
+}
+.twitter{
+  margin-bottom: 5px;
+}
+/*alwayes stand by end*/
+
+/*contact us start*/
+.contact-wrapper {
+    padding-top: 116px !important;
+    padding-bottom: 0px;
+}
+.common-md-style{
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+.single-contact-device i {
+    margin-top: 3px;
+    padding-right: 15px;
+}
+.common-p-details {
+    line-height: 25px;
+    font-size: 13px;
+}
+.single-contact-device i {
+    margin-top: 5px;
+    padding-right: 10px;
+}
+.contact-us-social-icon{
+  color: #3333;
+}
+/*contact us end*/
+
+/*footer start*/
+.offset-md-3 {
+    margin-left: 0%;
+}
+.right-footer-text {
+    text-align: right;
+}
+/*footer end*/
+ }
+
+/*Extra large devices (large desktops, 1200px and up) Extra large Screen/XL*/
+@media (min-width: 1200px) { 
+.offset-md-3 {
+    margin-left: 0%;
+}
+.right-footer-text {
+    text-align: right;
+}
+.social-icon ul {
+    margin-bottom: 5px !important;
+}
+#event-recentnews {
+    margin: 45px 0 0px;
+}
+#memorable-moments {
+    padding: 40px 0 70px;
+}
+.our-desiration{
+  padding-top: 5px;
+  margin-bottom: 20px;
+}
+.contact-us-social-icon{
+  color: #3333;
+}
+ }
